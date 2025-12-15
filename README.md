@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python, SQL, AWS**
 
-- 📫 How to reach me **atiwari1104@gmail.com**
-
 - ⚡ Fun fact **I think I am Funny :)**
 
 <h3 align="left">Connect with me:</h3>
